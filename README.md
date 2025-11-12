@@ -9,6 +9,9 @@ It features a state-driven animation system utlizing sprite-sheet, adding follow
 - attacking
 - shielding/blocking
 
+## Program Results
+  ![](https://github.com/Divyesh-Bhanvadiya/GAM531-Assignment-7/blob/master/Program%20Results.gif)
+
 ## Features
 
 *   OpenGL 3.3 pipeline: VAO/VBO, shaders, uniforms.
